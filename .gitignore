@@ -1,0 +1,8 @@
+
+# ide related
+.idea/
+.ipynb_checkpoints/
+
+# virtual environment
+venv/
+
