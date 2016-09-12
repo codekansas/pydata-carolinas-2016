@@ -4,16 +4,16 @@ DIRECTORY=$(pwd)
 
 # install pip
 {
-  which pip
+  which pip2
 } || {
-  curl "https://bootstrap.pypa.io/get-pip.py" | python
+  curl "https://bootstrap.pypa.io/get-pip.py" | python2
 }
 
 # install virtualenv
 {
   which virtualenv
 } || {
-  pip install virtualenv
+  pip2 install virtualenv
 }
 
 if [ ! -d $DIRECTORY/venv ]; then
