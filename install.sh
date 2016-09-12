@@ -22,5 +22,7 @@ fi
 
 # activate virtual environment
 source $DIRECTORY/venv/bin/activate
+
+# install theano and keras from source
 pip install --upgrade Theano keras h5py jupyter matplotlib
 
