@@ -1,5 +1,7 @@
 # pydata-carolinas-2016
 
+Here is a link to the talk: [https://www.youtube.com/watch?v=bvZnphPgz74](https://www.youtube.com/watch?v=bvZnphPgz74)
+
 My tutorial for PyData Carolinas 2016. I start out with the basics of Theano and Keras, then dive a bit deeper with word embeddings and recurrent networks, and finish by talking about and visualizing how one type of attention works for RNNs.
 
 Short URL to this page: [goo.gl/pem8Pf](http://goo.gl/pem8Pf)
